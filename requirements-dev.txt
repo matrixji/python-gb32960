@@ -1,1 +1,6 @@
+pytz
+
+
 pytest
+pytest-cov
+ruff
